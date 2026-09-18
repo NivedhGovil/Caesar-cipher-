@@ -1,4 +1,4 @@
-print("Welcome to the encryption lab. Here, you can encrypt words using the shift or Caesar Cipher.")
+print("Welcome to the encryption base. Here, you can encrypt words using the shift or Caesar Cipher.")
 word = str(input("What's the original word? "))
 key=int(input("What's the key?"))
 
